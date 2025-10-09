@@ -1,6 +1,6 @@
 # Datenschutz­erklärung
 
-**App-Name:** Cthulhu Awakens  
+**App-Name:** Cthulhu Crush  
 **Entwicklerin:** Melanie Bopfinger-Krüger  
 **Kontakt:** Cohornja@web.de
 ## Erhobene Daten
