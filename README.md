@@ -14,15 +14,36 @@ Da meine App-Projekte auf GitHub meist **privat** sind, werden ihre zugehörigen
 
 ---
 
-## 🧠 Datenschutz-Philosophie
-Ich lege großen Wert auf den Schutz der Daten meiner Nutzer.  
-Meine Apps:
-- erheben **nur die nötigsten Daten** für die Funktionalität,  
-- **teilen keine Daten mit Dritten**,  
-- und speichern persönliche Angaben, wenn überhaupt, **nur lokal auf dem Gerät**.
+## 🔒 Datenschutz & Datenspeicherung
 
-Ich bin offen für **Feedback und Verbesserungsvorschläge**, um den Datenschutz  
-auch in zukünftigen Projekten noch klarer und transparenter zu gestalten. 💬
+Ich lege großen Wert auf den Schutz der Daten meiner Nutzer:innen.
+Dieses Projekt erhebt keine personenbezogenen Daten, außer sie werden freiwillig angegeben (z. B. Nicknames, um sich mit anderen Spieler:innen zu vergleichen).
+
+Aktueller Stand:
+
+Die eingegebenen Nicknames werden derzeit nicht gespeichert.
+
+Sämtliche Interaktionen erfolgen lokal im Browser.
+
+Es findet keine Weitergabe von Daten an Dritte statt.
+
+Geplante Erweiterung:
+
+In einer zukünftigen Version ist geplant, Nutzerdaten (Nicknames und Scores) in einer Datenbank zu speichern, um Ranglisten und Vergleiche zwischen Spieler:innen zu ermöglichen.
+
+Dabei wird nur das notwendigste Minimum an Daten gespeichert, und die Nutzung ausschließlich zum spielerischen Vergleich dienen.
+
+Grundsätze:
+
+- Keine Weitergabe an Dritte
+
+- Keine Analyse- oder Tracking-Tools
+
+- Speicherung möglichst lokal oder anonymisiert
+
+Offene Kommunikation über zukünftige Datenschutzanpassungen
+
+Ich bin offen für Feedback und Verbesserungsvorschläge, um den Datenschutz auch in zukünftigen Projekten noch klarer und transparenter zu gestalten. 💬
 
 ---
 
