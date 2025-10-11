@@ -19,27 +19,31 @@ Da meine App-Projekte auf GitHub meist **privat** sind, werden ihre zugehörigen
 Ich lege großen Wert auf den Schutz der Daten meiner Nutzer:innen.
 Dieses Projekt erhebt keine personenbezogenen Daten, außer sie werden freiwillig angegeben (z. B. Nicknames, um sich mit anderen Spieler:innen zu vergleichen).
 
-Aktueller Stand:
+Aktueller Stand
 
-Die eingegebenen Nicknames werden derzeit nicht gespeichert.
+Lokal gespeichert (nur auf dem Gerät):
 
-Sämtliche Interaktionen erfolgen lokal im Browser.
+[z. B. Einstellungen, Spielfortschritt, lokale Bestenliste (Nickname + Score), …]
 
-Es findet keine Weitergabe von Daten an Dritte statt.
+Keine Weitergabe an Dritte durch die App selbst.
 
-Geplante Erweiterung:
+Keine Analyse-/Tracking-Tools, keine Werbung.
 
-In einer zukünftigen Version ist geplant, Nutzerdaten (Nicknames und Scores) in einer Datenbank zu speichern, um Ranglisten und Vergleiche zwischen Spieler:innen zu ermöglichen.
+[Optional: „Es werden keine sensiblen Berechtigungen (Standort/Kamera/Mikrofon) genutzt.“]
 
-Dabei wird nur das notwendigste Minimum an Daten gespeichert, und die Nutzung ausschließlich zum spielerischen Vergleich dienen.
+Optional: Drittanbieter-Funktionen (falls vorhanden)
 
-Grundsätze:
+[z. B. “Online-Bestenliste über Anbieter X: Bei freiwilliger Anmeldung werden Scores an X übertragen. Die App speichert selbst keine Kontodaten; Authentifizierung erfolgt über das SDK von X.”]
 
-- Keine Weitergabe an Dritte
+[Hinweis, wie man es deaktiviert: “Funktion kann jederzeit abgelehnt/deaktiviert werden; die App bleibt nutzbar.”]
 
-- Keine Analyse- oder Tracking-Tools
+Grundsätze
 
-- Speicherung möglichst lokal oder anonymisiert
+Minimalprinzip (es wird nur gespeichert, was für die Funktion nötig ist)
+
+Vorrangig lokale Speicherung
+
+Keine Weitergabe an Dritte ohne ausdrückliche Nutzeraktion
 
 Offene Kommunikation über zukünftige Datenschutzanpassungen
 
