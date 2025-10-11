@@ -5,7 +5,7 @@
 **Kontakt:** Cohornja@web.de
 ## Erhobene Daten
 Diese App erhebt minimale Nutzerdaten.  
-Beim Start kann ein *Nickname* eingegeben werden, der ausschließlich für die Bestenliste gedacht ist
+Beim Start kann ein *Nickname* eingegeben werden, der ausschließlich für die Bestenliste gedacht ist.
 Es erfolgt **keine Weitergabe** an Dritte, Server oder externe Dienste.
 
 ## Berechtigungen
